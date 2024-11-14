@@ -1,0 +1,47 @@
+<!-- Rodapé -->
+    <footer>
+        <div class="footer-container">
+            <!-- Descrição da ONG -->
+            <div class="footer-description">
+                <h2>Eco Patas</h2>
+                <p>Somos uma organização dedicada ao resgate e adoção de animais. Acreditamos que todo ser vivo merece
+                    um lar cheio de amor e carinho.</p>
+            </div>
+
+            <!-- Links rápidos -->
+            <div class="footer-links">
+                <h3>Links Rápidos</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Ongs</a></li>
+                    <li><a href="#">Espaços</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </div>
+
+            <!-- Redes sociais -->
+            <div class="footer-social">
+                <h3>Siga-nos</h3>
+                <ul>
+                    <li><a href="#" target="_blank">Facebook</a></li>
+                    <li><a href="#" target="_blank">Instagram</a></li>
+                    <li><a href="#" target="_blank">Twitter</a></li>
+                </ul>
+            </div>
+
+            <!-- Formulário de Newsletter -->
+            <div class="footer-newsletter">
+                <h3>Receba Novidades</h3>
+                <form action="#" method="post">
+                    <input type="email" placeholder="Digite seu e-mail" required>
+                    <button type="submit">Inscreva-se</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Direitos autorais -->
+        <div class="footer-bottom">
+            <p>&copy; 2024 Eco Patas. Todos os direitos reservados.</p>
+        </div>
+    </footer>
